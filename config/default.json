@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+        "mongodb+srv://mogaka_dev:manyara5766@mern-tutorial.k5aao.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
